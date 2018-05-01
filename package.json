@@ -1,0 +1,22 @@
+{
+  "name": "connect_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dahlia75/Connect_DB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dahlia75/Connect_DB/issues"
+  },
+  "homepage": "https://github.com/Dahlia75/Connect_DB#readme",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
