@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/Dahlia75/Connect_DB#readme",
   "dependencies": {
+    "knex": "^0.14.6",
     "pg": "^7.4.1"
   },
   "devDependencies": {},
